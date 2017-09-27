@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\House.cs">
+    <Files>
+      <File FileName="Assets\Editor\HouseEditor.cs" Line="1" Column="1" />
+      <File FileName="Assets\House.cs" Line="237" Column="16" />
+      <File FileName="Assets\Town.cs" Line="18" Column="78" />
+      <File FileName="Assets\WallPaint.cs" Line="30" Column="4" />
+      <File FileName="Assets\TopPaint.cs" Line="17" Column="40" />
+      <File FileName="Assets\DoorPaint.cs" Line="1" Column="1" />
+      <File FileName="Assets\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\CellScript.cs" Line="75" Column="3" />
+      <File FileName="Assets\rotate.cs" Line="22" Column="57" />
+      <File FileName="Assets\Standard Assets\ParticleSystems\Scripts\ParticleSystemMultiplier.cs" Line="1" Column="1" />
+      <File FileName="Assets\TopPaint1.cs" Line="11" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

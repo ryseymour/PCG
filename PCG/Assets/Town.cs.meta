@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ba414594b6fc24a92a039850cdef1bfe
+timeCreated: 1506219264
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - housePrefab: {fileID: 1876209417081566, guid: e5d4210d3196341739cf7844552482f8,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
